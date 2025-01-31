@@ -1,0 +1,8 @@
+:root {
+  background-color: #2C3333;
+}
+.center {
+  display: flex;
+  justify-content: center;
+  color: #E7F6F2;
+}
